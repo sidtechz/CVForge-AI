@@ -1,4 +1,4 @@
-# 🚀 CVForge AI
+# 📃CVForge AI
 
 ## 📌 Table of Contents
 
