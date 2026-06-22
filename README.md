@@ -1,7 +1,7 @@
 # 🚀 CVForge AI
 
 ## Project Title  
-###CVForge AI – Resume Analyzer
+CVForge AI – Resume Analyzer
 
 ---
 
