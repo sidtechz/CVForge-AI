@@ -44,6 +44,29 @@ CVForge AI solves this by automating resume evaluation and optimization suggesti
 
 ---
 
+<h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
+
+```
+vendor-performance-analysis/
+│
+├── README.md
+├── .gitignore
+├── requirements.txt
+├── Vendor Performance Report.pdf
+│
+├── notebooks/                  # Jupyter notebooks
+│   ├── exploratory_data_analysis.ipynb
+│   ├── vendor_performance_analysis.ipynb
+│
+├── scripts/                    # Python scripts for ingestion and processing
+│   ├── ingestion_db.py
+│   └── get_vendor_summary.py
+│
+├── dashboard/                  # Power BI dashboard file
+│   └── vendor_performance_dashboard.pbix
+```
+---
+
 ## Methods  
 - Resume text extraction from uploaded files  
 - Keyword matching with job descriptions  
