@@ -37,8 +37,8 @@ Most candidates struggle to:
 - Create ATS-friendly resumes  
 - Identify weaknesses in their CV  
 - Highlight relevant skills effectively  
-- Tailor resumes for specific job roles  
-CVForge AI solves this by automating resume evaluation and optimization using data-driven analysis.
+- Tailor resumes for specific job roles
+- CVForge AI solves this by automating resume evaluation and optimization using data-driven analysis.
 
 ---
 
