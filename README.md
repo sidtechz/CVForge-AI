@@ -59,8 +59,7 @@ Most candidates struggle to:
 - Keyword matching with job descriptions  
 - Skill gap analysis using NLP  
 - ATS scoring algorithm  
-- Virtual assistant based improvement suggestions  
-- Streamlit dashboard  
+- Virtual assistant based improvement suggestions    
 
 ---
 
