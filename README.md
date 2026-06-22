@@ -72,6 +72,44 @@ The system provides:
 
 ---
 
+Results & Conclusion
+
+Results
+
+- Resume parsing works for PDF/DOCX files
+- ATS score is generated based on skills and keywords
+- Missing skills and improvements are detected
+- LLM-based suggestions improve resume quality
+
+⸻
+
+Conclusion
+
+- CVForge AI automates resume evaluation effectively
+- Saves time in manual resume review
+- Helps users improve ATS compatibility
+- Provides structured and actionable feedback
+
+⸻
+
+Future Work
+
+- Job recommendation engine
+- Multi-language resume support
+- AI interview preparation assistant
+- Full web deployment for public access
+
+⸻
+
+Author & Contact
+
+Siddharth Vaishya
+
+🔗 GitHub: https://github.com/sidtechz
+🔗 LinkedIn: https://linkedin.com/in/siddharth-vaishya
+🔗 X (Twitter): https://x.com/Siddv10
+
+
 ## How to Run this Project?
 
 ### 1. Clone the repository
