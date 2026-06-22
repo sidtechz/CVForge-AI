@@ -79,64 +79,28 @@ The system provides:
 git clone https://github.com/your-username/cvforge-ai.git
 cd cvforge-ai
 
-2. Install UV (if not installed)
-```Bash
+2. Install UV 
+Bash
 pip install uv
 
 3. Create Virtual Environment using UV
-```Bash
+Bash
 uv venv
 
 4. Activate Virtual Environment
 ##Mac/Linux
-```Bash 
+Bash 
 source .venv/bin/activate
 
 Windows
-```Bash
+Bash
 • venv\Scripts\activate
 
 5. Install Dependencies using UV
-```Bash
+Bash
 uv pip install -r requirements.txt
 
 6. Run the Application
-```Bash
+Bash
 streamlit run app.py
 
-Results & Conclusion
-
-Results
-
-* Resume parsing works for PDF/DOCX files
-* ATS score is generated based on skills and keywords
-* Missing skills and improvements are detected
-* LLM-based suggestions improve resume quality
-
-⸻
-
-Conclusion
-
-* CVForge AI automates resume evaluation effectively
-* Saves time in manual resume review
-* Helps users improve ATS compatibility
-* Provides structured and actionable feedback
-
-⸻
-
-Future Work
-
-* Job recommendation engine
-* Multi-language resume support
-* AI interview preparation assistant
-* Full web deployment for public access
-
-⸻
-
-Author & Contact
-
-Siddharth Vaishya
-
-🔗 GitHub: https://github.com/your-username
-🔗 LinkedIn: https://linkedin.com/in/siddharth-vaishya
-🔗 X (Twitter): https://x.com/Siddv10
