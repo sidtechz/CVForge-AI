@@ -1,0 +1,14 @@
+[project]
+name = "cvforge-ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "openai>=2.43.0",
+    "openrouter>=0.10.0",
+    "pypdf2>=3.0.1",
+    "python-dotenv>=1.2.2",
+    "reportlab>=5.0.0",
+    "streamlit>=1.58.0",
+]
