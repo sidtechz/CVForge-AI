@@ -9,7 +9,7 @@
 - <a href="#tools-and-technologies">Tools & Technologies</a>
 - <a href="#methods">Methods</a>
 - <a href="#key-insights">Key Insights</a>
-- <a href="#dashboard">Dashboard / Model / Output</a>
+- <a href="#dashboard">Dashboard</a>
 - <a href="#results--conclusion">Results & Conclusion</a>
 - <a href="#author--contact">Author & Contact</a>
 - <a href="#future-work">Future Work</a>
